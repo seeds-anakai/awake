@@ -1,6 +1,6 @@
 # awake (Go 版)
 
-AI を用いた開発中に Mac の蓋を閉じてもスリープさせないための CLI ツール `awake` の **Go 移植版**です。
+MacBook の蓋を閉じてもスリープさせないための CLI ツール `awake` の **Go 移植版**です。
 
 オリジナルは [tanabee/awake](https://github.com/tanabee/awake)（bash 実装、約700行）で、以下の記事で紹介されています。
 
